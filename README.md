@@ -27,18 +27,22 @@
   
   
 
-| Techniques for modeling                                      | About                         |
-| ------------------------------------------------------------ | ----------------------------- |
-| [Augmentation libraries](https://colab.research.google.com/drive/1Lx4Y3_dpUr2OdebQtXnuXqiFpU24OMQW) | Albumentations and more       |
-| Augmentation techniques                                      | Mixup and more                |
-| [Ensemble methods](https://colab.research.google.com/drive/1CrCV2l9CCxVOgikXt3eQWmyxz6artmNp) | SWA and more                  |
-| Class imbalance                                              | Oversampling and more         |
-| Loss functions                                               | Arcface and more              |
-| Visualizations                                               | Tensorboard and more          |
-| GPU                                                          | GPU                           |
-| Pytorch Lightening                                           | Pytorch Lightening            |
-| Mixed/Half precision training                                | Mixed/Half precision training |
-| Psudolabeling                                                | Psudolabeling                 |
+| Techniques for modeling       | About                                                        |
+| ----------------------------- | ------------------------------------------------------------ |
+| Augmentation libraries        | [Albumentations](augmentation/albumentations.ipynb) and more |
+| Hyperparameter search         | [Optuna](hyperparameter/lgbmoptuna.ipynb) and more           |
+| AutoML                        | [Pycaret](automl/pycaret.ipynb) / [H2O](automl/H2O.ipynb) / [lightautoml](automl/lightautoml.ipynb) and more |
+| Augmentation techniques       | Mixup, Cutmix and more                                       |
+| Ensemble methods              | [SWA](ensemble/SWA.ipynb) and more                           |
+| Class imbalance               | Balancedsampler, Oversampling and more                       |
+| Loss functions                | Arcface and more                                             |
+| Visualizations                | Tensorboard and more                                         |
+| GPU                           | GPU                                                          |
+| Pytorch Lightening            | Pytorch Lightening                                           |
+| Mixed/Half precision training | Mixed/Half precision training                                |
+| Psudolabeling                 | Psudolabeling                                                |
+
+
 
 
 
