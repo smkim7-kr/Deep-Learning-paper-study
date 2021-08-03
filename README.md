@@ -1,7 +1,5 @@
 # Deep Learning Paper Review
 
-관심있는 분야 위주로 차차 늘려나갈 예정입니다.
-
 
 
 * Computer Vision
@@ -12,6 +10,11 @@
   * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)](https://www.notion.so/smkim7/Faster-R-CNN-Towards-Real-Time-Object-Detection-with-Region-Proposal-Networks-3213359661e84369b1da372ad8490017)
   * [U-Net: Convolutional Networks for Biomedical Image Segmentation (MICAAI 2015)](https://www.notion.so/smkim7/U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation-95f6a435e1a34063913a7dc93d4cf252)
 
+* Semi-Supervised Learning
+
+  * [MixMatch: A Holistic Approach to Semi-Supervised Learning (NIPS 2019)](https://smkim7.notion.site/MixMatch-A-Holistic-Approach-to-Semi-Supervised-Learning-300594207f4c47fe9d8b0f99e7eb9ead) | [Pytorch](https://github.com/smkim7-kr/albu-MixMatch-pytorch)
+  * [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://smkim7.notion.site/FixMatch-Simplifying-Semi-Supervised-Learning-with-Consistency-and-Confidence-9bcf742f358e429d9332b21f9dc4f318) | Pytorch
+  
 * Natural Language Processing
 
   * [Attention Is All You Need (NIPS 2017)](https://www.notion.so/smkim7/Attention-Is-All-You-Need-6bf5d9bb95b64bf8b1de6a9d8e8d3333) | Pytorch | Tensorflow2
