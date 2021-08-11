@@ -14,6 +14,7 @@
 
   * [MixMatch: A Holistic Approach to Semi-Supervised Learning (NIPS 2019)](https://smkim7.notion.site/MixMatch-A-Holistic-Approach-to-Semi-Supervised-Learning-300594207f4c47fe9d8b0f99e7eb9ead) | [Pytorch](https://github.com/smkim7-kr/albu-MixMatch-pytorch)
   * [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://smkim7.notion.site/FixMatch-Simplifying-Semi-Supervised-Learning-with-Consistency-and-Confidence-9bcf742f358e429d9332b21f9dc4f318) | Pytorch
+  * [AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation](https://smkim7.notion.site/AdaMatch-A-Unified-Approach-to-Semi-Supervised-Learning-and-Domain-Adaptation-9e6e221cca5e46cb80b9d36e6153553c) [Kor]| Pytorch | Slides | Videos
   
 * Natural Language Processing
 
